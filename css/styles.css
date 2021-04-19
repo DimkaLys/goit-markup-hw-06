@@ -897,7 +897,7 @@ address {
   background-color: var(--accent-color);
   fill: var(--accent-color);
   border-radius: 2px;
-  background-image: url(../images/icons.svg#icon-checkbox);
+  background-image: url(../images/icons/checkbox.svg);
   background-size: contain;
 }
 
